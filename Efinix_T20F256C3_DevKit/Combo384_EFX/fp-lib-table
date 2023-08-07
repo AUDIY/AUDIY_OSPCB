@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "MEM1608")(type "KiCad")(uri "${KIPRJMOD}/ul_MEM1608P50R0/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "C_Feed_1608")(type "KiCad")(uri "${KIPRJMOD}/ul_YFF18AC1H103MT0Y0N/KiCADv6/footprints.pretty")(options "")(descr ""))
+)

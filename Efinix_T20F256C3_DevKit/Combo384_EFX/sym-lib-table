@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MEM1608")(type "KiCad")(uri "${KIPRJMOD}/ul_MEM1608P50R0/KiCADv6/2023-06-07_15-54-49.kicad_sym")(options "")(descr ""))
+  (lib (name "C_Feed_1608")(type "KiCad")(uri "${KIPRJMOD}/ul_YFF18AC1H103MT0Y0N/KiCADv6/2023-06-13_13-35-13.kicad_sym")(options "")(descr ""))
+)
