@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "pt8211")(type "KiCad")(uri "${KIPRJMOD}/pt8211.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-09-23_07-03-55")(type "KiCad")(uri "E:/Document/KiCad/Projects/PT8211S_EFX/ul_KLPX-0848A-2-B/KiCADv6/2023-09-23_07-03-55.kicad_sym")(options "")(descr ""))
+)
